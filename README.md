@@ -1,2 +1,3 @@
 # ProShop
- e-commerce website
+
+e-commerce web app
